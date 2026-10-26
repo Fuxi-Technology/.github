@@ -1,12 +1,12 @@
 <div align="center">
 
-  <h1>⚡ Fuxi Technology</h1>
+  <img src='./img/logo.png' width="50%">
   <p><strong>Engenharia de software corporativo, inteligência aplicada e soberania de dados.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Ecossistema%20Ativo-007acc?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/Criptografia-AES--256-blueviolet?style=for-the-badge" alt="Security" />
-    <img src="https://img.shields.io/badge/Arquitetura-BYOK%20%26%20Multi--Tenant-success?style=for-the-badge" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Criptografia-N%C3%ADvel%20Banc%C3%A1rio-blueviolet?style=for-the-badge" alt="Security" />
+    <img src="https://img.shields.io/badge/Soberania-Seus%20Dados%2C%20Seu%20Controle-success?style=for-the-badge" alt="Sovereignty" />
   </p>
 
 </div>
@@ -15,74 +15,66 @@
 
 ### 🏢 Sobre a Fuxi Technology
 
-A **Fuxi Technology** desenvolve soluções corporativas de missão crítica com foco em inteligência operacional, observabilidade, IoT e privacidade de dados. Nossos produtos são concebidos sob o princípio de **soberania de dados do cliente** (*Bring Your Own Keys / BYOK*), garantindo controle total sobre credenciais, storage em nuvem e fluxos financeiros.
+A **Fuxi Technology** desenvolve soluções corporativas sob medida com foco em inteligência operacional, automação, IoT e privacidade de dados. Nossos produtos são concebidos sob o princípio de **soberania de dados do cliente** (*Bring Your Own Keys / BYOK*), garantindo que sua empresa mantenha a posse e o controle exclusivo sobre seus arquivos, credenciais e contas de pagamento.
 
 ---
 
 ### 🚀 Soluções & Produtos em Destaque
 
-#### 🛡️ [Fuxi-Desk] — Service Desk & Gestão de Chamados Corporativos
-Plataforma avançada para gestão de atendimentos, prestadores de serviço e ordens de trabalho, construída com foco em alta segurança e autonomia:
-- **Soberania de Dados (BYOK):** Cloudflare R2 (storage) e chaves de gateways de pagamento pertencem diretamente ao cliente, eliminando dependência ou trânsito desnecessário em servidores intermediários.
-- **Segurança de Nível Bancário:** Criptografia ponta a ponta com padrão **AES-256** para blindagem de registros confidenciais e credenciais sensíveis.
-- **Gateways de Pagamento Integrados:** Liquidação e repasses automatizados para prestadores e técnicos de serviço.
-- **Modelos Flexíveis de Faturamento:**
-  1. *Por Orçamento Avulso* (demandas customizadas sob aprovação prévia);
-  2. *Contrato Fixo Mensal* (recorrência com SLA garantido);
-  3. *Preço por Ticket Concluído* (modelo sob demanda por produtividade).
+#### 🛡️ [Fuxi-Desk] — Gestão Inteligente de Chamados e Prestadores
+Plataforma completa para controle de atendimentos, ordens de serviço e equipes em campo, desenhada para quem não pode abrir mão de segurança e transparência:
+- **Soberania Total dos Dados:** Armazenamento de arquivos e chaves de pagamento ficam na conta do próprio cliente, sem intermediários.
+- **Segurança de Nível Bancário:** Criptografia avançada (AES-256) protegendo todas as informações confidenciais do início ao fim.
+- **Pagamentos Integrados:** Repasses e liquidações automáticas para os prestadores de serviço com rapidez e rastreabilidade.
+- **Modelos Flexíveis de Parceria:**
+  1. *Por Orçamento Avulso* (demandas pontuais sob aprovação prévia);
+  2. *Contrato Fixo Mensal* (previsibilidade de custos com atendimento garantido);
+  3. *Preço por Ticket Concluído* (pagamento proporcional à produtividade real).
 
-#### 🚚 [alaska-sys] — Inteligência e Eficiência Logística
-ERP operacional sob medida para transportadoras e operações logísticas intensivas:
-- **Roteirização Inteligente:** Algoritmos dedicados para sugestão e cálculo das rotas de entrega mais rápidas e econômicas.
-- **Geração e Gestão de Romaneios:** Emissão automatizada e conciliação digital de cargas.
-- **Rastreabilidade em Tempo Real:** Monitoramento do status de entrega e ocorrências em campo.
+#### 🚚 [alaska-sys] — Eficiência e Roteirização para Logística
+Sistema de gestão operacional desenvolvido especificamente para transportadoras e operações de entrega contínua:
+- **Roteirização Inteligente:** Sugestão automática dos melhores trajetos para economizar combustível e encurtar prazos de entrega.
+- **Criação de Romaneios:** Geração simplificada e organizada da documentação e conciliação de cargas.
+- **Acompanhamento em Tempo Real:** Visibilidade completa de onde estão as encomendas e do status de cada entrega.
 
 ---
 
-### 🧩 Produtos Internos & Inovação (Fuxi Suite)
+### 🧩 Produtos do Ecossistema Fuxi
 
-Nossos módulos proprietários cobrem automação, monitoramento e inteligência distribuída:
+Soluções proprietárias que atendem a diferentes desafios do mercado:
 
-| Produto | Foco / Domínio | Destaques |
+| Produto | Foco de Atuação | O que resolve |
 | :--- | :--- | :--- |
-| ❄️ **ColdControl** | **IoT & Cadeia do Frio** | Monitoramento contínuo de sensores de temperatura/umidade para centros de distribuição, supermercados e ambientes refrigerados críticos. |
-| 🤖 **Squadify** | **SaaS de Orquestração de IA** | Plataforma de agentes autônomos integrados a pipelines corporativos, CRM, kanban operacional e modelo de IA *BYOK* (DeepSeek/LLMs). |
-| 🛰️ **SkyScan** | **Inspeção & Telemetria** | Módulo de varredura, validação de conformidade e auditoria operacional de rotinas. |
-| 🎯 **QG (Quartel General)** | **Centro de Comando** | Hub interno unificado de governança, chat operacional inteligente e observabilidade da infraestrutura Fuxi. |
+| ❄️ **ColdControl** | **Internet das Coisas (IoT)** | Monitoramento contínuo de temperatura e umidade em câmaras frias, supermercados e galpões para evitar perdas de mercadorias. |
+| 🤖 **Squadify** | **Automação com IA** | Criação e orquestração de assistentes inteligentes integrados à rotina de trabalho da sua equipe para acelerar tarefas do dia a dia. |
+| 🛰️ **SkyScan** | **Auditoria e Inspeção** | Varredura e conferência de rotinas operacionais para assegurar qualidade e conformidade contínua. |
+| 🎯 **QG (Quartel General)** | **Painel de Controle** | Central interna que conecta as operações, comunicações e serviços de inteligência da empresa em um único lugar. |
 
 ---
 
-### 🗄️ Infraestrutura, Dados & Governança
+### 💡 Fundamentos & Capacidades Tecnológicas
 
-Repositórios de apoio e sustentação do ecossistema:
-
-- 📊 **`vm7-bi`** — *Business Intelligence & Analytics:* Dashboards executivos, consolidação de métricas-chave e relatórios analíticos de desempenho.
-- 🚨 **`fuxi_errors`** — *Central de Observabilidade:* Monitoramento proativo, captura distribuída de exceções e telemetria de integridade dos serviços.
-- 🧠 **`fsa-obsidian`** — *Knowledge Base Viva:* Repositório central de documentação arquitetural, padrões de código e procedimentos operacionais da empresa.
-
----
-
-### 🛠️ Stack Tecnológica
+Em vez de sistemas engessados, combinamos as melhores práticas globais de engenharia para entregar soluções robustas:
 
 <div align="center">
 
-| Camada | Tecnologias |
+| Pilar | Como isso beneficia o seu negócio |
 | :--- | :--- |
-| **Aplicações Web & Desktop** | Next.js, React, TypeScript, Tailwind CSS, Tauri, Zustand |
-| **Backend & Eventos** | Node.js, RabbitMQ, Arquitetura Orientada a Eventos |
-| **Dados & Armazenamento** | MySQL, Redis, Cloudflare R2 |
-| **IA & Automação** | DeepSeek API, LLMs, Function Calling, Orquestração Multi-Agente |
-| **Qualidade & CI/CD** | Vitest, ESLint, Git, Pipelines de Verificação Contínua |
+| 🖥️ **Experiência Intuitiva** | Telas modernas, limpas e que carregam instantaneamente em computadores, tablets ou celulares. |
+| ⚡ **Alta Velocidade & Escala** | Plataformas preparadas para crescer com a sua operação, sem lentidão ou travamentos. |
+| 🧠 **Inteligência Prática** | Aplicação de Inteligência Artificial para eliminar tarefas manuais e apoiar decisões estratégicas. |
+| 🛡️ **Privacidade Absoluta** | Dados isolados, protegidos por senhas e criptografia de ponta, mantendo seus segredos de negócio a salvo. |
+| ✅ **Confiabilidade Contínua** | Auditorias automáticas de qualidade antes de qualquer atualização entrar no ar. |
 
 </div>
 
 ---
 
-### 🔒 Governança de Código
+### 🔒 Compromisso com a Segurança
 
-- Repositórios privados protegidos por políticas rígidas de controle de acesso e auditoria.
-- Verificação automatizada de conformidade antes de merges/deploys (`npm run check`).
-- Isolamento de credenciais e compliance de soberania de dados.
+- **Privacidade por Padrão:** Nenhum dado de clientes é compartilhado ou usado para finalidades externas.
+- **Auditoria Rigorosa:** Todos os nossos processos passam por validações automáticas de integridade.
+- **Ambientes Isolados:** Cada cliente opera com suas próprias chaves e acessos exclusivos.
 
 ---
 
