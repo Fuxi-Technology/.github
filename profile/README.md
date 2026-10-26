@@ -47,7 +47,7 @@ Soluções proprietárias que atendem a diferentes desafios do mercado:
 | :--- | :--- | :--- |
 | ❄️ **ColdControl** | **Internet das Coisas (IoT)** | Monitoramento contínuo de temperatura e umidade em câmaras frias, supermercados e galpões para evitar perdas de mercadorias. |
 | 🤖 **Squadify** | **Automação com IA** | Criação e orquestração de assistentes inteligentes integrados à rotina de trabalho da sua equipe para acelerar tarefas do dia a dia. |
-| 🛰️ **SkyScan** | **Auditoria e Inspeção** | Varredura e conferência de rotinas operacionais para assegurar qualidade e conformidade contínua. |
+| ✈️ **SkyScan** | **Monitoramento de Tarifas** | Robô de rastreamento inteligente que busca e monitora automaticamente os melhores preços de passagens para trechos e faixas de valores definidos pelo usuário. |
 | 🎯 **QG (Quartel General)** | **Painel de Controle** | Central interna que conecta as operações, comunicações e serviços de inteligência da empresa em um único lugar. |
 
 ---
